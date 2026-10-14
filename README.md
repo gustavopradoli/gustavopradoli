@@ -1,6 +1,6 @@
-22 years old Full-Stack Developer.
----
 Software Engineering student.
+---
+22 years old Full-Stack Developer.
 
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
 
